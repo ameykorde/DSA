@@ -1,3 +1,5 @@
+# Sort 0,1,2 in n time complexity
+
 This is a common problem called **Dutch National Flag problem**. You are asked to sort an array of `0s`, `1s`, and `2s` in ascending order. The most efficient way to do this is by using the **three-pointer approach** which has a time complexity of `O(n)` and space complexity of `O(1)`.
 
 ### Approach:
