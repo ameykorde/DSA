@@ -114,11 +114,5 @@ Input: `arr[] = [1, 2, 3, 4]`
 - Final `maxCount = 3`
 - Result: `maxCount = 3`
 
----
-
-### Complexity Analysis
-
-- **Time Complexity:** `O(n)` — The array is traversed once.
-- **Space Complexity:** `O(1)` — Only a constant amount of extra space is used.
 
 
