@@ -92,9 +92,6 @@ class Solution {
         return maxCount;
     }
 }
-```
-
----
 
 ### Dry Run:
 
