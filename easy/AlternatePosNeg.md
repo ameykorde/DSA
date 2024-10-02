@@ -1,5 +1,5 @@
 
-# Alternate Positive and Negative Numbers
+# Alternate Positive and Negative Number
 
 ## Problem Statement
 Given an unsorted array `arr` containing both positive and negative numbers, your task is to create an array with alternate positive and negative numbers while maintaining the relative order of positive and negative numbers. Note that 0 (zero) should be considered a positive element.
