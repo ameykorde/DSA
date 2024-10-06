@@ -87,6 +87,3 @@ class Solution {
 
 ### Space Complexity:
 - The space complexity is **O(1)** since we are modifying the array in place without using any extra space.
-
-## Summary:
-- This solution uses the two-pointer technique to reverse an array in place. The array is modified by swapping elements from the beginning and the end, gradually moving towards the center of the array.
