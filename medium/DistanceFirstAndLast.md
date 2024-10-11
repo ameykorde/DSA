@@ -111,9 +111,6 @@ class Solution {
 - **Binary Search for Last Occurrence**: `O(log n)`
 - Overall time complexity is `O(log n)`.
 
-### Auxiliary Space
-- The space complexity is `O(1)` because no additional space is used apart from the input array and a few variables.
-
 ---
 
 ### Edge Cases
