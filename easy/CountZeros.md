@@ -12,7 +12,6 @@ Input: arr[] = [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
 Output: 3
 Explanation: There are 3 zeros in the given array.
 ```
-
 ### Example 2
 
 ```java
