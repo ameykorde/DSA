@@ -14,6 +14,7 @@ Explanation: There are 3 zeros in the given array.
 ```
 ### Example 2
 
+
 ```java
 Input: arr[] = [0, 0, 0, 0, 0]
 Output: 5
