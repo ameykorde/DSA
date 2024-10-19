@@ -5,13 +5,6 @@ The Solution class contains a method to calculate the minimum value of the dot p
 
 ## Method: minValue
 
-### Signature
-public long minValue(List<Integer> arr1, List<Integer> arr2)
-
-### Parameters
-- arr1: A List<Integer> representing the first array of integers.
-- arr2: A List<Integer> representing the second array of integers.
-
 ### Returns
 - Returns a long value representing the minimum dot product of the two arrays.
 
