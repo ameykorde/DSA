@@ -7,7 +7,6 @@ for(int i=0; i<n; i++){
 }
 ```
 
-The outer loop runs n times.
 The inner loop runs up to i times for each iteration of the outer loop.
 - For i=1, j runs for 1 time.
 - For i=2, j runs for 2 times.
